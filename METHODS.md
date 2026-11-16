@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mathematical Optimization | — | — | — | — | — | — | — |
 | Dynamic & Stochastic Models | — | — | — | — | — | — | — |
-| Game Theory & Mechanism Design | — | — | — | — | — | — | — |
+| Game Theory & Mechanism Design | — | — | [Chun & Ovchinnikov (2019)](papers/service-operations/2019-Chun-Strategic-Consumers-Loyalty-Programs.pdf) | — | — | — | — |
 | Machine Learning & Online Learning | — | — | — | — | — | — | — |
 | Simulation & Heuristics | — | — | — | — | — | — | — |
 | LLM-driven Methods | — | — | — | — | — | — | — |
