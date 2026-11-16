@@ -1,13 +1,13 @@
-name: 文献群讨论
+name: Paper Trail 讨论
 description: 围绕一组相关论文交流，持续补充文章与想法。
-title: "[Trail] 文献群名称"
+title: "[Paper Trail] 主题名称"
 body:
   - type: input
     id: cluster
     attributes:
-      label: 文献群页面
-      description: 粘贴仓库中对应文献群 Markdown 页面的链接。
-      placeholder: https://github.com/你的账号/仓库名/blob/main/clusters/文献群名称.md
+      label: Paper Trail 页面
+      description: 粘贴仓库中对应 Paper Trail Markdown 页面的链接。
+      placeholder: https://github.com/你的账号/仓库名/blob/main/clusters/trail-name.md
     validations:
       required: true
   - type: input
@@ -26,5 +26,5 @@ body:
     attributes:
       value: |
         后续想法直接写在本 Issue 的评论区，可标注“整体想法”或“关于 P2”。
-        新文章可以先在评论里推荐，再整理进文献群页面。
-        提交后，请把本 Issue 链接填回文献群页面的“群评论区”。
+        新文章可以先在评论里推荐，再整理进 Paper Trail 页面。
+        提交后，请把本 Issue 链接填回 Paper Trail 页面的“Paper Trail 评论区”。
