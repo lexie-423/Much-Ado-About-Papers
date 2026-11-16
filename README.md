@@ -6,7 +6,7 @@
     <em>我唱的<ins>音符</ins>，没有一个值得你留心。</em><br>
     <em>这些<ins>笔记</ins>，倒也不是多重要。</em>
   </p>
-  <p><sub>— William Shakespeare, <em>Much Ado About Nothing</em> · Balthasar · Act 2, Scene 3</sub></p>
+  <p><sub>— William Shakespeare, <em>Much Ado About Nothing(《无事生非》)</em> · Balthasar · Act 2, Scene 3</sub></p>
 </blockquote>
 
 📚 **Store intriguing works.**<br>
