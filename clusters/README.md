@@ -6,6 +6,7 @@
 
 | Paper Trail | 起点论文 | 主要话题 | 方法 | Paper Trail 评论区 |
 | --- | --- | --- | --- | --- |
+| [Diffusion for Optimization](diffusion-for-optimization.md) | [Diffusion-DFL（2025）](../papers/production-scheduling/2025-Zhao-Diffusion-DFL-Stochastic-Optimization.pdf) | 生产与调度；物流与履约；Transportation | 机器学习；数学优化；生成式启发式 | [💬 讨论 #1](https://github.com/lexie-423/Much-Ado-About-Papers/issues/1) |
 
 ## 建立一个 Paper Trail
 

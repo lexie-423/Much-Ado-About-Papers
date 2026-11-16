@@ -6,8 +6,7 @@
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 关键词 / 一句话备注 | Paper Trail |
 | --- | --- | --- | --- | --- | --- |
-
-暂无文献，欢迎添加。
+| 2026 | [NExCO: Native Solution Expansion for Diffusion-based Combinatorial Optimization](../../2026-Wang-NExCO-Native-Solution-Expansion.pdf) | ICLR 2026 | [📄 PDF](../../2026-Wang-NExCO-Native-Solution-Expansion.pdf) | Wang et al.；masked diffusion、GNN、自适应解扩展、可行性投影；TSP / MIS / CVRP | [Diffusion for Optimization](../../../../clusters/diffusion-for-optimization.md) |
 
 添加文章时，在表格中增加一行。PDF 保存在对应话题文件夹，在此使用链接引用；一篇论文可同时收录到多个方法文件夹。
 
