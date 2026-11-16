@@ -1,4 +1,4 @@
 # Much-Ado-About-Papers
-Store intriguing works.
-Share illuminating insights.
+Store intriguing works.<br>
+Share illuminating insights.<br>
 Spark improbable ideas.
