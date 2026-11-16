@@ -2,7 +2,7 @@
 
 服务系统、人员配置、预约与容量管理。
 
-[返回首页](../../README.md) · [方法索引](../../METHODS.md) · [Paper Trail](../../clusters/README.md)
+[返回首页](../../README.md) · [方法索引](../../METHODS.md) · [📂 按方法浏览](by-method/) · [Paper Trail](../../clusters/README.md)
 
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 方法 | 关键词 / 一句话备注 | Paper Trail |

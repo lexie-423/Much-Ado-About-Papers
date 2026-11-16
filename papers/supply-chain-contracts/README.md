@@ -2,7 +2,7 @@
 
 供应链协调、契约、信息共享与激励。
 
-[返回首页](../../README.md) · [方法索引](../../METHODS.md) · [Paper Trail](../../clusters/README.md)
+[返回首页](../../README.md) · [方法索引](../../METHODS.md) · [📂 按方法浏览](by-method/) · [Paper Trail](../../clusters/README.md)
 
 PDF 上传到本文件夹后，在下表的 PDF 列添加文件链接；文献标题可链接到 DOI 或论文主页。没有 PDF 时填“—”，期刊名按原文填写，预印本可注明 arXiv。推荐理由和所属 Paper Trail 均可留空。
 
