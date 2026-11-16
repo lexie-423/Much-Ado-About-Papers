@@ -1,0 +1,13 @@
+[
+  {"name":"paper","color":"1D76DB","description":"论文条目"},
+  {"name":"status:todo","color":"D4C5F9","description":"待读"},
+  {"name":"status:reading","color":"FBCA04","description":"阅读中"},
+  {"name":"status:ready","color":"F9A03F","description":"待分享"},
+  {"name":"status:shared","color":"0E8A16","description":"已分享"},
+  {"name":"status:paused","color":"BFD4F2","description":"搁置或不再推进"},
+  {"name":"priority:must-read","color":"B60205","description":"优先阅读"},
+  {"name":"topic:optimization","color":"C5DEF5","description":"运筹与组合优化"},
+  {"name":"topic:machine-learning","color":"C5DEF5","description":"机器学习"},
+  {"name":"topic:llm","color":"C5DEF5","description":"大语言模型"},
+  {"name":"topic:other","color":"EDEDED","description":"其他方向，可按需新增标签"}
+]
