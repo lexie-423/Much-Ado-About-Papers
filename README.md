@@ -17,7 +17,7 @@ Spark improbable ideas.
 | [Production & Scheduling](papers/production-scheduling/README.md) | 生产计划、作业调度、维护与质量管理 |
 | [Logistics & Fulfillment](papers/logistics-fulfillment/README.md) | 选址、配送、路径规划、仓储与履约 |
 | [Transportation](papers/transportation/README.md) | 交通网络、公共交通、出行需求、共享出行、交通拥堵与运输运营 |
-| [Home Healthcare](papers/home-healthcare/README.md) | 居家医疗与护理的路径、排班、技能匹配、连续照护与不确定性 |
+| [Home Healthcare](papers/home-healthcare/README.md) | 居家医疗与护理的各类研究|
 
 ## 收藏一篇
 
