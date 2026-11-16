@@ -6,8 +6,7 @@
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 关键词 / 一句话备注 | Paper Trail |
 | --- | --- | --- | --- | --- | --- |
-
-暂无文献，欢迎添加。
+| — | [Strategic Switchers: The Unique Feature of Carpooling](https://yuhangdu-edu.github.io/research/#pre-phd-work) | Working paper | 未公开；需向作者索取 | Yuhang Du & Rowan Wang；拼车、乘客／司机角色切换、供需平衡、均衡分析；年份未注明 | — |
 
 添加文章时，在表格中增加一行。PDF 保存在对应话题文件夹，在此使用链接引用；一篇论文可同时收录到多个方法文件夹。
 

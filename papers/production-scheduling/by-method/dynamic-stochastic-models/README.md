@@ -6,8 +6,7 @@
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 关键词 / 一句话备注 | Paper Trail |
 | --- | --- | --- | --- | --- | --- |
-
-暂无文献，欢迎添加。
+| 2026 | [Reserving Capacity, Restoring Fairness: Scheduling Elective Caesarean Sections in the English NHS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819560) | Working paper；Under Review | 未收录（见 SSRN 入口） | Du, Zhong, Aiken & Rabiee；择期剖宫产、容量预留、公平性、提前确认、流体排队模型 | — |
 
 添加文章时，在表格中增加一行。PDF 保存在对应话题文件夹，在此使用链接引用；一篇论文可同时收录到多个方法文件夹。
 
