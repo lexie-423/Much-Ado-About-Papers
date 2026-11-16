@@ -2,7 +2,7 @@
 
 [返回首页](README.md) · [Paper Trail](clusters/README.md)
 
-横向是运营话题，纵向是研究方法。交叉格可放论文或 Paper Trail 链接；同一链接可以出现在多个格子里，PDF 只保存一份。“—”表示尚未收录，不代表该交叉方向没有研究。
+横向是运营话题，纵向是研究方法。
 
 | Methods ↓ / Topics → | 库存与采购 | 供应链协调与契约 | 服务运营 | 生产与调度 | 物流与履约 | Home Healthcare | Transportation |
 | --- | --- | --- | --- | --- | --- | --- | --- |
