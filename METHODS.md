@@ -4,15 +4,15 @@
 
 横向是运营话题，纵向是研究方法。交叉格可放论文或文献群链接；同一链接可以出现在多个格子里，PDF 只保存一份。“—”表示尚未收录，不代表该交叉方向没有研究。
 
-| Methods ↓ / Topics → | 库存与采购 | 供应链协调与契约 | 服务运营 | 生产与调度 | 物流与履约 | Home Healthcare |
-| --- | --- | --- | --- | --- | --- | --- |
-| Mathematical Optimization | — | — | — | — | — | — |
-| Dynamic & Stochastic Models | — | — | — | — | — | — |
-| Game Theory & Mechanism Design | — | — | — | — | — | — |
-| Causal Inference & Structural Estimation | — | — | — | — | — | — |
-| Machine Learning & Online Learning | — | — | — | — | — | — |
-| Simulation & Heuristics | — | — | — | — | — | — |
-| LLM-driven Methods | — | — | — | — | — | — |
+| Methods ↓ / Topics → | 库存与采购 | 供应链协调与契约 | 服务运营 | 生产与调度 | 物流与履约 | Home Healthcare  Transportation |
+| --- | --- | --- | --- | --- | --- | ---  --- |
+| Mathematical Optimization | — | — | — | — | — | —  — |
+| Dynamic & Stochastic Models | — | — | — | — | — | —  — |
+| Game Theory & Mechanism Design | — | — | — | — | — | —  — |
+| Causal Inference & Structural Estimation | — | — | — | — | — | —  — |
+| Machine Learning & Online Learning | — | — | — | — | — | —  — |
+| Simulation & Heuristics | — | — | — | — | — | —  — |
+| LLM-driven Methods | — | — | — | — | — | —  — |
 
 ## 方法名称与范围
 
