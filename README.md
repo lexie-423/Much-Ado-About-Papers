@@ -1,8 +1,10 @@
 # Much Ado About Papers
 
-Store intriguing works.<br>
-Share illuminating insights.<br>
-Spark improbable ideas.
+<h3>
+📚 Store intriguing works.<br>
+💡 Share illuminating insights.<br>
+✨ Spark improbable ideas.
+</h3>
 
 
 **[按话题找论文](#topics) · [话题 × 方法](METHODS.md) · [文献群](clusters/README.md)**
