@@ -8,8 +8,9 @@
 
 > *“There’s not a note of mine that’s worth the noting.”*<br>
 > *“我唱的音符，没有一个值得你留心。”*
+> *这些笔记，倒也不是多重要*
 >
-> — William Shakespeare, *Much Ado About Nothing*（《无事生非》），Balthasar，第二幕第三场。中文为意译。［[原文：Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/much-ado-about-nothing/read/2/3/)］
+> — William Shakespeare, *Much Ado About Nothing*（《无事生非》），Balthasar，Act 2, Scene 3
 
 
 **[按话题](#topics) · [按话题 × 方法](METHODS.md) · [Paper Trail](clusters/README.md)**
