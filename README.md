@@ -6,6 +6,11 @@
 ✨ Spark improbable ideas.
 </h3>
 
+> *“There’s not a note of mine that’s worth the noting.”*<br>
+> *“我唱的音符，没有一个值得你留心。”*
+>
+> — William Shakespeare, *Much Ado About Nothing*（《无事生非》），Balthasar，第二幕第三场。中文为意译。［[原文：Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/much-ado-about-nothing/read/2/3/)］
+
 
 **[按话题](#topics) · [按话题 × 方法](METHODS.md) · [Paper Trail](clusters/README.md)**
 
@@ -27,7 +32,7 @@
 
 方法使用 [METHODS.md](METHODS.md) 中的名称，可多选。觉得值得横向比较的文章，也可以把链接加进“话题 × 方法”矩阵；不用为了收藏一篇论文填完所有格子。
 
-## Paper Trails
+## Paper Trail
 
 以某篇文章为起点建立一个 [Paper Trail](clusters/README.md)。文件夹内可以放它的前置工作、后续延伸、相关工作，以及我们自己的共同疑问。
 
