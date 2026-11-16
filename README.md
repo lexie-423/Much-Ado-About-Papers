@@ -1,2 +1,4 @@
 # Much-Ado-About-Papers
-Simply share papers.
+Store intriguing works.
+Share illuminating insights.
+Spark improbable ideas.
