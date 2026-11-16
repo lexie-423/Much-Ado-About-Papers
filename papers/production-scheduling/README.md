@@ -8,5 +8,6 @@ PDF 上传到本文件夹后，在下表的 PDF 列添加文件链接；文献�
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 方法 | 关键词 / 一句话备注 | Paper Trail |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2025 | [Diffusion-DFL: Decision-focused Diffusion Models for Stochastic Optimization](https://arxiv.org/abs/2510.11590v1) | arXiv 预印本（v1） | [📄 PDF](2025-Zhao-Diffusion-DFL-Stochastic-Optimization.pdf) | Machine Learning & Online Learning; Mathematical Optimization | Zhao et al.；决策导向学习、扩散模型、随机优化；应用包括生产决策、电力调度与投资组合 | — |
 
 <!-- 添加论文行：年份 | [论文标题](DOI或论文主页) | 期刊名 | [📄 PDF](同目录下的文件名.pdf) | 方法 | 备注 | Paper Trail -->

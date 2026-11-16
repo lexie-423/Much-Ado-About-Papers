@@ -8,5 +8,6 @@ PDF 上传到本文件夹后，在下表的 PDF 列添加文件链接；文献�
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 方法 | 关键词 / 一句话备注 | Paper Trail |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026 | [Return of the Robots: The Truck-and-Robot Routing Problem with Robot Reuse and Reallocation](https://doi.org/10.1287/trsc.2025.0523) | Transportation Science（Articles in Advance） | [📄 PDF](2026-Huf-Ostermeier-Return-of-the-Robots.pdf) | Mathematical Optimization; Simulation & Heuristics | Huf & Ostermeier；卡车—机器人协同配送、机器人复用与重配置、逆向物流；整数规划 + 遗传算法 | — |
 
 <!-- 添加论文行：年份 | [论文标题](DOI或论文主页) | 期刊名 | [📄 PDF](同目录下的文件名.pdf) | 方法 | 备注 | Paper Trail -->
