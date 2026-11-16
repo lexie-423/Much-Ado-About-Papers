@@ -8,7 +8,7 @@
 
 > *“There’s not a <ins>note</ins> of mine that’s worth the noting.”*<br>
 > *“我唱的<ins>音符</ins>，没有一个值得你留心。”*<br>
-> *这些<ins>笔记</ins>，倒也不是多重要*
+> *“这些<ins>笔记</ins>，倒也不是多重要”*
 >
 > — William Shakespeare, *Much Ado About Nothing*（《无事生非》），Balthasar，Act 2, Scene 3。［[原文：Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/much-ado-about-nothing/read/2/3/)］中文为意译；“笔记”一句借用于本仓库语境。
 
