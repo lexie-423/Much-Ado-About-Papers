@@ -1,29 +1,17 @@
 # Much Ado About Papers
 
-<h2 align="center">
-  <em>“There’s not a <ins>note</ins> of mine that’s worth the noting.”</em>
-</h2>
+<blockquote>
+  <h3><em>There’s not a <ins>note</ins> of mine that’s worth the noting.</em></h3>
+  <p>
+    <em>我唱的<ins>音符</ins>，没有一个值得你留心。</em><br>
+    <em>这些<ins>笔记</ins>，倒也不是多重要。</em>
+  </p>
+  <p><sub>— William Shakespeare, <em>Much Ado About Nothing</em> · Balthasar · Act 2, Scene 3</sub></p>
+</blockquote>
 
-<h3 align="center">
-  <em>“我唱的<ins>音符</ins>，没有一个值得你留心。”</em><br>
-  <em>“这些<ins>笔记</ins>，倒也不是多重要”</em>
-</h3>
-
-<p align="center">
-  <sub>— William Shakespeare · <em>Much Ado About Nothing</em>（《无事生非》）</sub><br>
-  <sub>Balthasar · Act 2, Scene 3 · <a href="https://www.folger.edu/explore/shakespeares-works/much-ado-about-nothing/read/2/3/">Folger Shakespeare Library 原文</a></sub><br>
-  <sub>中文为意译；“笔记”一句借用于本仓库语境。</sub>
-</p>
-
-<br>
-
-<h3 align="center">
-  📚 Store intriguing works.<br>
-  💡 Share illuminating insights.<br>
-  ✨ Spark improbable ideas.
-</h3>
-
-<br>
+📚 **Store intriguing works.**<br>
+💡 **Share illuminating insights.**<br>
+✨ **Spark improbable ideas.**
 
 **[按话题](#topics) · [按话题 × 方法](METHODS.md) · [Paper Trail](clusters/README.md)**
 
