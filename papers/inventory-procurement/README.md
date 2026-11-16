@@ -8,6 +8,6 @@ PDF 上传到本文件夹后，在下表的 PDF 列添加文件链接；文献�
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 方法 | 关键词 / 一句话备注 | Paper Trail |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2011 | [Selling to Strategic Consumers When Product Value Is Uncertain: The Value of Matching Supply and Demand](https://doi.org/10.1287/mnsc.1110.1360) | Management Science | [📄 PDF](2011-Swinney-Strategic-Consumers-Uncertain-Product-Value.pdf) | Game Theory & Mechanism Design | Swinney；策略性消费者、快速响应、估值不确定性、供需匹配 | — |
+| 2011 | [Selling to Strategic Consumers When Product Value Is Uncertain: The Value of Matching Supply and Demand](https://doi.org/10.1287/mnsc.1110.1360) | Management Science | [📄 PDF](2011-Swinney-Strategic-Consumers-Uncertain-Product-Value.pdf) | Game Theory & Mechanism Design | Swinney；策略性消费者、快速响应、估值不确定性、供需匹配 | [Strategic Consumers](../../clusters/strategic-consumers.md) |
 
 <!-- 添加论文行：年份 | [论文标题](DOI或论文主页) | 期刊名 | [📄 PDF](同目录下的文件名.pdf) | 方法 | 备注 | Paper Trail -->

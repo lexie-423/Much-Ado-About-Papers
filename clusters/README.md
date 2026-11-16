@@ -7,6 +7,7 @@
 | Paper Trail | 起点论文 | 主要话题 | 方法 | Paper Trail 评论区 |
 | --- | --- | --- | --- | --- |
 | [Diffusion for Optimization](diffusion-for-optimization.md) | [Diffusion-DFL（2025）](../papers/production-scheduling/2025-Zhao-Diffusion-DFL-Stochastic-Optimization.pdf) | 生产与调度；物流与履约；Transportation | 机器学习；数学优化；生成式启发式 | [💬 讨论 #1](https://github.com/lexie-423/Much-Ado-About-Papers/issues/1) |
+| [Strategic Consumers](strategic-consumers.md) | [Chun & Ovchinnikov（2019）](../papers/service-operations/2019-Chun-Strategic-Consumers-Loyalty-Programs.pdf) | 服务运营；库存与采购 | 博弈与机制设计 | [💬 讨论 #2](https://github.com/lexie-423/Much-Ado-About-Papers/issues/2) |
 
 ## 建立一个 Paper Trail
 

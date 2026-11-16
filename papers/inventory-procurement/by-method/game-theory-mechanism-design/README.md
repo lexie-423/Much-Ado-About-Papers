@@ -6,7 +6,7 @@
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 关键词 / 一句话备注 | Paper Trail |
 | --- | --- | --- | --- | --- | --- |
-| 2011 | [Selling to Strategic Consumers When Product Value Is Uncertain: The Value of Matching Supply and Demand](https://doi.org/10.1287/mnsc.1110.1360) | Management Science | [📄 PDF](../../2011-Swinney-Strategic-Consumers-Uncertain-Product-Value.pdf) | Swinney；策略性消费者、快速响应、估值不确定性、供需匹配 | — |
+| 2011 | [Selling to Strategic Consumers When Product Value Is Uncertain: The Value of Matching Supply and Demand](https://doi.org/10.1287/mnsc.1110.1360) | Management Science | [📄 PDF](../../2011-Swinney-Strategic-Consumers-Uncertain-Product-Value.pdf) | Swinney；策略性消费者、快速响应、估值不确定性、供需匹配 | [Strategic Consumers](../../../../clusters/strategic-consumers.md) |
 
 添加文章时，在表格中增加一行。PDF 保存在对应话题文件夹，在此使用链接引用；一篇论文可同时收录到多个方法文件夹。
 
