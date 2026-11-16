@@ -4,7 +4,6 @@ Store intriguing works.<br>
 Share illuminating insights.<br>
 Spark improbable ideas.
 
-这里存放我们偶然遇见、觉得有趣，或以后可能用得上的 Operations Management 文献。
 
 **[按话题找论文](#topics) · [话题 × 方法](METHODS.md) · [文献群](clusters/README.md)**
 
