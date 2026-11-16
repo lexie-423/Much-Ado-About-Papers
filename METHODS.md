@@ -15,7 +15,7 @@
 
 ## 方法名称与范围
 
-| 方法 | 具体技术示例 |
+| 方法 | 具体技术 |
 | --- | --- |
 | Mathematical Optimization | LP/MIP、凸优化、随机优化、鲁棒优化、分布鲁棒优化（DRO） |
 | Dynamic & Stochastic Models | 动态规划、MDP、排队论、随机过程 |
@@ -23,7 +23,3 @@
 | Machine Learning & Online Learning | 预测、强化学习、Bandits、决策导向学习 |
 | Simulation & Heuristics | 离散事件仿真、仿真优化、ALNS、遗传算法 |
 | LLM-driven Methods | LLM 辅助建模、约束提取、算法生成、启发式设计、规划与决策、Agent 仿真 |
-
-LLM-driven Methods 可跨所有话题：例如 LLM 做居家护理排班、生成配送启发式、从采购文本提取约束。请在备注里写清 LLM 具体承担什么角色。仅研究“企业采用 LLM 的影响”而未用 LLM 作为研究或决策方法的文章，不必归到这一行。
-
-一篇文章可以同时标注 `LLM-driven Methods; Simulation & Heuristics`，或 `Mathematical Optimization; Dynamic & Stochastic Models`。这里的类别是检索入口，不要求互斥。
