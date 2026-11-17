@@ -13,7 +13,7 @@
 💡 **Share illuminating insights.**<br>
 ✨ **Spark improbable ideas.**
 
-**[按话题](#topics) · [按话题 × 方法](METHODS.md) · [Paper Trail](clusters/README.md)**
+**[按话题](#topics) · [按话题 × 方法](METHODS.md) · [Paper Trail](clusters/README.md) · [有趣的文章](Much-Ado-About-Something/)**
 
 ## Topics
 
@@ -26,6 +26,10 @@
 | [Logistics & Fulfillment](papers/logistics-fulfillment/README.md) | 选址、配送、路径规划、仓储与履约 |
 | [Transportation](papers/transportation/README.md) | 交通网络、公共交通、出行需求、共享出行、交通拥堵与运输运营 |
 | [Home Healthcare](papers/home-healthcare/README.md) | 居家医疗与护理的各类研究|
+
+## Much Ado About Something
+
+[📂 有趣的文章](Much-Ado-About-Something/) · 一些值得多看一眼的奇思妙想。
 
 ## 收藏文章
 
