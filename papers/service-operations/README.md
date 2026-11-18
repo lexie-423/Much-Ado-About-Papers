@@ -12,7 +12,15 @@
 | 2025 | [Helping the Captive Audience: Advance Notice of Diagnostic Service for Hospital Inpatients](https://doi.org/10.1287/msom.2023.0642) | Manufacturing & Service Operations Management | [📄 PDF](2025-Bai-Advance-Notice-Hospital-Inpatients.pdf) | Dynamic & Stochastic Models | Bai, Liu & Zhang；住院诊断服务、提前通知、MDP、服务与准备时间窗 | — |
 | 2025 | [Optimal Assignment Guidelines for Maternity Waiting Homes in Resource-Constrained Environments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432095) | Working paper；Operations Research 大修中 | 未收录（见 SSRN 入口） | Mathematical Optimization | Chen, Du, Gallien, Lori, Panayiotou & Sieka；待产之家床位分配、围产期医疗可及性、容量约束、整数规划 | — |
 | 2026 | [Reserving Capacity, Restoring Fairness: Scheduling Elective Caesarean Sections in the English NHS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6819560) | Working paper；Under Review | 未收录（见 SSRN 入口） | Dynamic & Stochastic Models | Du, Zhong, Aiken & Rabiee；择期剖宫产、容量预留、公平性、提前确认、流体排队模型 | — |
+| 2026 | [Is Continuity All We Need? A Modeling Approach to Evaluating Relational Continuity in Primary Care](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6551140) | Working paper；Management Science 大修中 | 未收录（见 SSRN 入口） | Dynamic & Stochastic Models; Game Theory & Mechanism Design | Ghosh, Savva & Zhong；基层医疗连续性、资源池化、等待时间、均值场排队模型与患者均衡 | — |
+| — | [Dispatching for Efficiency and Fairness in Emergency Medical Service Systems](https://yueyang-zhong.com/research/) | Manuscript；投稿准备中 | 未公开；需向作者索取 | Dynamic & Stochastic Models; Machine Learning & Online Learning | He, Hua, Zhong & Zaman；急救派遣、公平性、平均回报动态规划、时序差分学习；年份未注明 | — |
+| 2026 | [Socioeconomic Deprivation and Risk of Early-Onset Pre-eclampsia in England: A National Population-Based Cohort Study](https://doi.org/10.64898/2026.07.01.26355976) | medRxiv 预印本（v1）；已投稿 | [📄 PDF](2026-Phillips-Socioeconomic-Deprivation-Preeclampsia.pdf) | 观察性队列研究（未设方法分类） | Phillips, Caretta Cortegiani, Aiken, Knight, Kajaria-Montag, Orfanoudaki & Zhong；英国产科、社会经济剥夺、健康公平、医院间差异 | — |
+| — | [Continuity of Care on Mental Health Platforms: A Field Experiment on Behavioral Nudges](https://yueyang-zhong.com/research/) | Manuscript；投稿准备中 | 未公开；需向作者索取 | 随机现场实验（未设方法分类） | Cheng, Candogan & Zhong；心理健康平台、持续治疗、复诊提醒、Safe Space；年份未注明 | — |
 
 <!-- 添加论文行：年份 | [论文标题](DOI或论文主页) | 期刊名 | [📄 PDF](同目录下的文件名.pdf) | 方法 | 备注 | Paper Trail -->
 
 本次 working paper 收录自 [Yuhang Du 的研究主页](https://yuhangdu-edu.github.io/research/)（状态核对：2026-11-16）。方法根据公开摘要归类；PDF 获取情况见表格。
+
+Yueyang Zhong 的医疗保健研究收录自[作者研究主页](https://yueyang-zhong.com/research/)（状态核对：2026-11-18）；剖宫产排程论文已收录，未重复添加。方法按公开摘要归类；观察性队列研究与现场实验仅保留方法说明，不增设方法目录。未公开稿件可通过作者主页索取。
+
+子痫前期研究 PDF 为 Phillips, Caretta Cortegiani, Aiken, Knight, Kajaria-Montag, Orfanoudaki 与 Zhong 的 [medRxiv v1](https://www.medrxiv.org/content/10.64898/2026.07.01.26355976v1)（2026-07-02），采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，原样收录，版权归作者；其许可独立于仓库 MIT 许可。
