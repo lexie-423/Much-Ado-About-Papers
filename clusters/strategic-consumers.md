@@ -7,10 +7,10 @@
 
 ## 两篇文章
 
-| 编号 | 文献 | 年份 | 期刊 | PDF | 关系 |
-| --- | --- | --- | --- | --- | --- |
-| P0 | [Strategic Consumers, Revenue Management, and the Design of Loyalty Programs](https://doi.org/10.1287/mnsc.2018.3139) | 2019 | Management Science | [📄 PDF](../papers/service-operations/2019-Chun-Strategic-Consumers-Loyalty-Programs.pdf) | 起点：通过会员资格规则与价格的协调，管理策略性消费者 |
-| P1 | [Selling to Strategic Consumers When Product Value Is Uncertain: The Value of Matching Supply and Demand](https://doi.org/10.1287/mnsc.1110.1360) | 2011 | Management Science | [📄 PDF](../papers/inventory-procurement/2011-Swinney-Strategic-Consumers-Uncertain-Product-Value.pdf) | 我们的关联：对照消费者等待行为如何影响快速响应的价值 |
+| 编号 | 文献 | 年份 | 期刊 | PDF | 附录 | 关系 |
+| --- | --- | --- | --- | --- | --- | --- |
+| P0 | [Strategic Consumers, Revenue Management, and the Design of Loyalty Programs](https://doi.org/10.1287/mnsc.2018.3139) | 2019 | Management Science | [📄 PDF](../papers/service-operations/2019-Chun-Strategic-Consumers-Loyalty-Programs.pdf) | [早期作者稿含附录](../papers/service-operations/appendices/2019-Chun-Loyalty-Programs-Early-Author-Version-With-Appendix.pdf#page=32) · [期刊版入口](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2018.3139/suppl_file/mnsc.2018.3139.sm1.pdf) | 起点：通过会员资格规则与价格的协调，管理策略性消费者 |
+| P1 | [Selling to Strategic Consumers When Product Value Is Uncertain: The Value of Matching Supply and Demand](https://doi.org/10.1287/mnsc.1110.1360) | 2011 | Management Science | [📄 PDF](../papers/inventory-procurement/2011-Swinney-Strategic-Consumers-Uncertain-Product-Value.pdf) | [正文内，PDF p.13 起](../papers/inventory-procurement/2011-Swinney-Strategic-Consumers-Uncertain-Product-Value.pdf#page=13) | 我们的关联：对照消费者等待行为如何影响快速响应的价值 |
 
 P0 作者：So Yeon Chun、Anton Ovchinnikov。  
 P1 作者：Robert Swinney。

@@ -7,10 +7,10 @@
 
 ## 两篇文章
 
-| 编号 | 文献 | 年份 | 期刊 / 会议 | PDF | 与起点的关系 |
-| --- | --- | --- | --- | --- | --- |
-| P0 | [Diffusion-DFL: Decision-focused Diffusion Models for Stochastic Optimization](https://arxiv.org/abs/2510.11590v1) | 2025 | arXiv 预印本（上传版本 v1） | [📄 PDF](../papers/production-scheduling/2025-Zhao-Diffusion-DFL-Stochastic-Optimization.pdf) | 起点：扩散模型学习不确定参数的条件分布，以决策目标训练 |
-| P1 | [NExCO: Native Solution Expansion for Diffusion-based Combinatorial Optimization](../papers/logistics-fulfillment/2026-Wang-NExCO-Native-Solution-Expansion.pdf) | 2026 | ICLR 2026（上传版本） | [📄 PDF](../papers/logistics-fulfillment/2026-Wang-NExCO-Native-Solution-Expansion.pdf) | 我们的关联：同样使用 diffusion，但生成对象转为组合优化解 |
+| 编号 | 文献 | 年份 | 期刊 / 会议 | PDF | 附录 | 与起点的关系 |
+| --- | --- | --- | --- | --- | --- | --- |
+| P0 | [Diffusion-DFL: Decision-focused Diffusion Models for Stochastic Optimization](https://arxiv.org/abs/2510.11590v1) | 2025 | arXiv 预印本（上传版本 v1） | [📄 PDF](../papers/production-scheduling/2025-Zhao-Diffusion-DFL-Stochastic-Optimization.pdf) | [正文内，PDF p.16 起](../papers/production-scheduling/2025-Zhao-Diffusion-DFL-Stochastic-Optimization.pdf#page=16) | 起点：扩散模型学习不确定参数的条件分布，以决策目标训练 |
+| P1 | [NExCO: Native Solution Expansion for Diffusion-based Combinatorial Optimization](../papers/logistics-fulfillment/2026-Wang-NExCO-Native-Solution-Expansion.pdf) | 2026 | ICLR 2026（上传版本） | [📄 PDF](../papers/logistics-fulfillment/2026-Wang-NExCO-Native-Solution-Expansion.pdf) | [正文内，PDF p.15 起](../papers/logistics-fulfillment/2026-Wang-NExCO-Native-Solution-Expansion.pdf#page=15) | 我们的关联：同样使用 diffusion，但生成对象转为组合优化解 |
 
 P0：Zihao Zhao、Christopher Yeh、Lingkai Kong、Kai Wang。  
 P1：Yu Wang、Yang Li、Jiale Ma、Junchi Yan、Yi Chang。
