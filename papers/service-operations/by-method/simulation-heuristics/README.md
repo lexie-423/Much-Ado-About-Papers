@@ -6,8 +6,7 @@
 
 | 年份 | 文献 / 链接 | 期刊 | PDF | 关键词 / 一句话备注 | Paper Trail |
 | --- | --- | --- | --- | --- | --- |
-
-暂无文献，欢迎添加。
+| 2026 | [The Dating Heuristic: A Provably Strong Matching Algorithm for Dating Platforms](https://doi.org/10.1287/msom.2024.1053) | Manufacturing & Service Operations Management | [📄 PDF](../../2026-Rios-Torrico-Dating-Heuristic.pdf) | Rios & Torrico；约会平台、动态双边匹配、子模优化、DH-int、可证明近似保证；PDF 为 arXiv v5 | — |
 
 添加文章时，在表格中增加一行。PDF 保存在对应话题文件夹，在此使用链接引用；一篇论文可同时收录到多个方法文件夹。
 

@@ -16,6 +16,7 @@
 | — | [Dispatching for Efficiency and Fairness in Emergency Medical Service Systems](https://yueyang-zhong.com/research/) | Manuscript；投稿准备中 | 未公开；需向作者索取 | Dynamic & Stochastic Models; Machine Learning & Online Learning | He, Hua, Zhong & Zaman；急救派遣、公平性、平均回报动态规划、时序差分学习；年份未注明 | — |
 | 2026 | [Socioeconomic Deprivation and Risk of Early-Onset Pre-eclampsia in England: A National Population-Based Cohort Study](https://doi.org/10.64898/2026.07.01.26355976) | medRxiv 预印本（v1）；已投稿 | [📄 PDF](2026-Phillips-Socioeconomic-Deprivation-Preeclampsia.pdf) | 观察性队列研究（未设方法分类） | Phillips, Caretta Cortegiani, Aiken, Knight, Kajaria-Montag, Orfanoudaki & Zhong；英国产科、社会经济剥夺、健康公平、医院间差异 | — |
 | — | [Continuity of Care on Mental Health Platforms: A Field Experiment on Behavioral Nudges](https://yueyang-zhong.com/research/) | Manuscript；投稿准备中 | 未公开；需向作者索取 | 随机现场实验（未设方法分类） | Cheng, Candogan & Zhong；心理健康平台、持续治疗、复诊提醒、Safe Space；年份未注明 | — |
+| 2026 | [The Dating Heuristic: A Provably Strong Matching Algorithm for Dating Platforms](https://doi.org/10.1287/msom.2024.1053) | Manufacturing & Service Operations Management | [📄 PDF](2026-Rios-Torrico-Dating-Heuristic.pdf) | Mathematical Optimization; Simulation & Heuristics | Rios & Torrico；约会平台、动态双边匹配、子模优化、DH-int、可证明近似保证；PDF 为 arXiv v5 | — |
 
 <!-- 添加论文行：年份 | [论文标题](DOI或论文主页) | 期刊名 | [📄 PDF](同目录下的文件名.pdf) | 方法 | 备注 | Paper Trail -->
 
@@ -24,3 +25,5 @@
 Yueyang Zhong 的医疗保健研究收录自[作者研究主页](https://yueyang-zhong.com/research/)（状态核对：2026-11-18）；剖宫产排程论文已收录，未重复添加。方法按公开摘要归类；观察性队列研究与现场实验仅保留方法说明，不增设方法目录。未公开稿件可通过作者主页索取。
 
 子痫前期研究 PDF 为 Phillips, Caretta Cortegiani, Aiken, Knight, Kajaria-Montag, Orfanoudaki 与 Zhong 的 [medRxiv v1](https://www.medrxiv.org/content/10.64898/2026.07.01.26355976v1)（2026-07-02），采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，原样收录，版权归作者；其许可独立于仓库 MIT 许可。
+
+《The Dating Heuristic》PDF 为 Ignacio Rios 与 Alfredo Torrico 的 [arXiv:2308.02584v5](https://arxiv.org/abs/2308.02584v5)（2026-02-28），原样收录、未作修改；版权归作者，采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可，独立于仓库 MIT 许可。表格年份按期刊发表年份填写。
